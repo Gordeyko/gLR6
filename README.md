@@ -65,7 +65,7 @@ git checkout -b branch1
 git add .
 git commit -m ""
 git checkout master
-git merge new_branch
+git merge branch1
 ```
 
 ![image](https://github.com/user-attachments/assets/725ea5a0-a26d-4a08-95bd-59ecc2556e5e)
