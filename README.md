@@ -6,6 +6,8 @@
 3. Установила Git 
 4. После установки настроила клиент git, введя имя пользователя (Группа
 Фамилия И.О.) и email.
+> git config --global user.name ""
+> git config --global user.email ""
 ![image](https://github.com/user-attachments/assets/9e6ca3e8-1fa9-4d17-9c82-1ab3c29dc460)
 6. Клонировала свой личный удалённый репозиторий на компьютер
    ![image](https://github.com/user-attachments/assets/fe4e37d7-a331-4713-bb55-a3f2d152eedd)
